@@ -1,0 +1,69 @@
+cheeseburger,303
+double cheeseburger,440
+fish and chips,585 
+french fries,222
+bread,96
+noodles,75
+naan,260
+pasta,110
+rice,420
+fried rice,638
+fried chicken,246
+salmon,220
+apple,44
+banana,107
+grape,55
+ice cream,200
+omelette,154
+butter chicken,490
+chicken caesar salad,392
+fried shrimp,75
+kebab,774
+lasgne,284
+mac and cheese,699
+mashed potatoes,174
+pepperoni pizza,250
+ramen,380
+tandoori chicken,198
+chocolate bread,174
+pulut,85
+lemang,206
+pisang goreng,252
+roti jala,108
+sausage,85
+chicken satay,24
+bihun sup,350
+apam balik,290
+kuih lapis,132
+tomyam,100
+nasi tomato,695
+crab,76
+chocolate bread,275
+char kuey teow,322
+ikan goreng,140
+fried kuey teow,321
+nasi goreng kampung,274
+ayam masak merah,82
+fish head curry,385
+ayam panggang,193
+chicken curry,287
+mee curry,339
+ikan patin tempoyak,168
+nasi ayam,368
+asam pedas fish,156
+chicken biryani,348
+shawarma,440
+steak,271
+mashed potatoes,88
+chicken chop,243
+grilled chicken,284
+roti canai,314
+roti telur,414
+nasi lemak,400
+ayam masak merah,110
+maggi goreng,360
+fried egg,109
+garlic bread,207
+mushroom soup,120
+cheese fries,241
+butter chicken,355
